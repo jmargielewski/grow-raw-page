@@ -7,6 +7,7 @@
     "@types/node": "12.0.0",
     "@types/react": "16.8.16",
     "@types/react-dom": "16.8.4",
+    "@types/react-redux": "^7.0.8",
     "@typescript-eslint/eslint-plugin": "^1.7.0",
     "@typescript-eslint/eslint-plugin-tslint": "^1.7.0",
     "@typescript-eslint/parser": "^1.7.0",
@@ -21,7 +22,13 @@
     "eslint-plugin-react-hooks": "^1.6.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-icons": "^3.6.1",
+    "react-redux": "^7.0.3",
+    "react-router-dom": "^5.0.0",
     "react-scripts": "3.0.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^4.2.0",
     "typescript": "3.4.5"
   },
   "scripts": {
