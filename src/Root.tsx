@@ -1,8 +1,9 @@
 import React, { FunctionComponent } from 'react';
 import { Provider } from 'react-redux';
+import { ApplicationState } from './store';
 
 interface RootProps {
-  store: object;
+  store: ApplicationState;
 }
 
 const Root: FunctionComponent<RootProps> = ({ children, store }) => (
