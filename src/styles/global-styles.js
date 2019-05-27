@@ -8,6 +8,15 @@ export default createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
   }
+
+  body {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #777;
+    padding:30px;
+  }
   
   a {
     text-decoration: none;
